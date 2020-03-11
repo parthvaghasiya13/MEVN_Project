@@ -1,4 +1,4 @@
-# mevn_project
+# Vue.js based one page web-application
 
 ## Project setup
 ```
