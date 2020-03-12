@@ -1,8 +1,10 @@
 <template>
   <div>
     <div id="details">
-      <h1>Welcome to the Gallery of Foxconn's new Wisconsin Plant</h1>
-      <p>The Foxconn plant in southeastern Wisconsin is a project to ostensibly build a $10 billion flat screen TV and LCD panel manufacturing plant in Mount Pleasant, Wisconsin that was originally slated to employ 13,000 people. The state of Wisconsin had made an agreement with Foxconn whereby the company would receive subsidies ranging from $3 billion to $4.8 billion (paid in increments if Foxconn met certain targets), which would have been by far the largest subsidy ever given to a foreign firm in U.S. history. The factory was set to start production by the end of 2020 but as of December 2019 construction had yet to begin.</p>
+      <h1>Welcome to the Gallery of Foxconn Industrial Internet - USA</h1>
+      <p>Foxconn manufactures electronic products for major American, Canadian, Chinese, Finnish and Japanese companies. Notable products manufactured by Foxconn include the BlackBerry, iPad, iPhone, iPod, Kindle, Nintendo 3DS, Nokia devices, Xiaomi devices, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One, and several CPU sockets, including the TR4 CPU socket on some motherboards. As of 2012, Foxconn factories manufactured an estimated 40% of all consumer electronics sold worldwide.</p>
+      <p>The genesis of Foxconn Industrial Internet (Fii) started in 2013 when Foxconn realized the growth potential of a global company ready to lead the rise of the Industrial Internet. Fii is driving focused engagements in High Performance Computing, AI applications, Cloud and 5G Networks.</p>
+      <p>We provide the latest in High Performance Computing hardware, all tailored to meet your specific business needs. Our range of HPC solutions can reduce your workflow time from days to hours.</p>
     </div>
     <div id="posts">
       <div v-for="post in posts" v-bind:key="post">
@@ -12,8 +14,7 @@
     </div>
     <div id="details">
       <br>
-      <p>In January 2019, Foxconn said it was reconsidering its initial plans to manufacture LCD screens at the Wisconsin plant, citing high labor costs in the United States, and that it would hire mostly engineers and researchers, rather than manufacturing workforce. In February 2019, Bloomberg News reported that the plant was "unlikely to ever employ 13,000 workers."In an interview in July 2019, Governor Tony Evers said that Foxconn told him the factory would open by May 2020, but would employ only 1,500 workers.</p>
-      <p>As of January 2020, construction work on some buildings has progressed, and Foxconn's founder Terry Gou insisted the factory would be operational within 2020.</p>
+      <p>We present opportunity for continued technological advancement for fans looking to consume sports across devices through integrating augmented reality (AR), virtual reality (VR), and AI into their viewing experience.</p>
       <h3>Stay tuned for more updates.</h3>
     </div>
   </div>

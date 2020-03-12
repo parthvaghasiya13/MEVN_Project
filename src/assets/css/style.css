@@ -34,9 +34,9 @@ div#app-container{
     bottom: 98px;
     width: 100%;
     padding-top: 7rem;  
-    padding-right: 4rem;
+    padding-right: 6rem;
     padding-bottom: 4rem;
-    padding-left: 4rem; 
+    padding-left: 6rem; 
     background-color: #fff;
     overflow: auto;
 }
