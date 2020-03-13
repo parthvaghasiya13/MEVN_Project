@@ -1,6 +1,6 @@
 # Vue.js based one page web-application
 
-### Introduction
+## Introduction
 
 This project is a one-page web-application which is based on Vue.js. This web-application queries https://picsum.photos/v2/list, parses the JSON, and displays the images as a gallery with the author's name below each image by using axios-vue.
 
@@ -12,7 +12,7 @@ Checkout the live web-application running on the docker instance: http://45.63.6
 
 Note: In the navbar, Fii-USA's logo, and some external links have been used for demonstration purpose.
 
-### Technology stack:
+## Technology stack:
 - Frontend: Vue.js with bootstrap, Vuex, Vue Router
 - Backend: node.js
 - API calls: axios
@@ -26,10 +26,10 @@ git clone https://github.com/parthvaghasiya13/mevn_project.git
 # go to the directory
 cd mevn_project
 
-#build the docker container named vue-docker-container
+# build the docker container named vue-docker-container
 docker build -t vue-docker-container .
 
-#run the container
+# run the container
 docker run -p 8080:80 vue-docker-container
 ```
 
@@ -37,7 +37,7 @@ You can check the web-application running on your localhost at port 8080 i.e. ht
 
 Checkout more commands of Docker: https://docs.docker.com/engine/reference/commandline/docker/ .
 
-Note: 
+## Note: 
 ```
 For Windows 10 Home users, due the unavilibility of Hyper V, users can use Docker Toolbox on Windows from here: https://docs.docker.com/toolbox/toolbox_install_windows/
 
