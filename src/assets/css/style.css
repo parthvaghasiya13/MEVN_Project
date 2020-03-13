@@ -21,8 +21,7 @@ li.nav-item a {
         position: fixed;
         top: 75px;
         left: 0;
-        padding-left: 3rem;
-        padding-right: 3 rem;
+        padding-left: 20px;
         padding-bottom: 5px;
         background-color: #2d1b87;
     }
@@ -35,9 +34,9 @@ div#app-container{
     bottom: 98px;
     width: 100%;
     padding-top: 7rem;  
-    padding-right: 3rem;
+    padding-right: 2rem;
+    padding-left: 2rem; 
     padding-bottom: 4rem;
-    padding-left: 3rem; 
     background-color: #fff;
     overflow: auto;
 }

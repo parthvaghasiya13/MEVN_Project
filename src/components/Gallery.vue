@@ -13,7 +13,7 @@
       </div>
     </div>
     <div id="details">
-      <br>
+      <br />
       <p>We present opportunity for continued technological advancement for fans looking to consume sports across devices through integrating augmented reality (AR), virtual reality (VR), and AI into their viewing experience.</p>
       <h3>Stay tuned for more updates.</h3>
     </div>

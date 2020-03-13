@@ -14,13 +14,13 @@ export default {
     Gallery
   },
   watch: {
-        $route: {
-            immediate: true,
-            handler(to) {
-                document.title = to.meta.title || 'Fii USA - Gallery';
-            }
-        },
+    $route: {
+      immediate: true,
+      handler(to) {
+        document.title = to.meta.title || "Fii USA - Gallery";
+      }
     }
+  }
 };
 </script>
 

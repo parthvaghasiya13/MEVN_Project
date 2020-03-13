@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap'
 import '@/assets/css/style.css'
 import axios from 'axios'
-import VueAxios from 'vue-axios'  
+import VueAxios from 'vue-axios'
 
 
 Vue.use(VueAxios, axios)
