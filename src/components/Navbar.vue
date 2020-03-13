@@ -1,7 +1,9 @@
 <template>
   <header>
+    <!-- Using navbar from Bootstrap template -->
     <nav class="navbar navbar-expand-md navbar-dark fixed-top custom-bg-dark">
       <a class="navbar-brand" href="#/">
+        <!-- getting logo from Fii-USA website -->
         <img style="max-height:40px;" src="https://www.fii-usa.com/img/core-img/logo.png" />
         Gallery
       </a>
@@ -16,6 +18,7 @@
       >
         <span class="navbar-toggler-icon"></span>
       </button>
+      <!-- Navbar buttons with their links -->
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">

@@ -9,6 +9,9 @@
 </template>
 
 <script>
+
+//importing Navbar and Footer from components
+
 import Navbar from "@/components/Navbar.vue";
 import Footer from "@/components/Footer.vue";
 

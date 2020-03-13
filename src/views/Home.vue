@@ -17,6 +17,7 @@ export default {
     $route: {
       immediate: true,
       handler(to) {
+        // Title
         document.title = to.meta.title || "Fii USA - Gallery";
       }
     }

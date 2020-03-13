@@ -1,20 +1,27 @@
+/* CSS data of whole web-app */
+
+/* custom color of the navbar */
 .custom-bg-dark{
     background-color:#2d1b87 !important;
 }
 
+/* Navbar height */
 nav.navbar{
     height: 6rem;
 }
 
+/* Navbar font formatting which is on side of the logo */
 a.navbar-brand{
     text-transform: uppercase;
     letter-spacing: 3px;
 }
 
+/* Navbar font formatting */
 li.nav-item a {
     text-transform: uppercase;
 }
 
+/* Mobile and Tablet Navbar CSS */
 @media screen and (max-width: 767px){
     div#navbarCollapse{
         width: 100%;
@@ -27,8 +34,8 @@ li.nav-item a {
     }
 }
 
+/* Main app container CSS */
 div#app-container{
-
     top: 96px;
     left: 0;    
     bottom: 98px;
@@ -41,6 +48,7 @@ div#app-container{
     overflow: auto;
 }
 
+/* Customized Footer */
 footer#custom-footer{
     height: 3rem;
     background-color: #2d1b87;
@@ -54,17 +62,20 @@ footer#custom-footer{
     color: #fff;
 }
 
+/* setting up the display of the images with margin in between the pictures */
 #posts div {
     display: inline-block;
     margin: 6px 8px;
 }
 
+/* CSS of text data on the Gallery page */
 #details p{
     font-style: italic;
     text-align: justify;
     text-justify: inter-word;
 }
 
+/* Custom h3 tag for the Gallery page */
 #details h3{
     text-align: center;
     font-style: italic;
